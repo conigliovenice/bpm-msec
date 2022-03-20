@@ -1,2 +1,2 @@
 # bpm-msec
-this is a simple patch usefull to convert BPM to milliseconds
+This is a simple patch usefull to convert BPM to milliseconds in Pure Data
